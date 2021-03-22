@@ -4,6 +4,6 @@ h1{
     border-bottom: 1px solid #ddd;
 }
 
-#prc{
-    font-color: #ccc;    
+.prc{
+    color: #ccc;    
 }
